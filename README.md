@@ -1,6 +1,5 @@
 # 💫 About Me:
-My name is Ismail. I am an IT developer
-
+My name is Ismail. I am an IT developer with 6 months of experience working on various projects. My work includes developing admin Web and App solutions. I am also a bachelor's degree student.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ismail_abdirah) 
