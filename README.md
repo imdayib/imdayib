@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ismail. I am an IT developer with 6+ months of experience working on various projects. My work includes developing admin Web and App solutions. I am also a bachelor's degree student.
+👋 Hi, I’m a Creative Front-End Developer and Junior IT Developer at Yiksi, passionate about building clean, responsive, and user-focused web & mobile apps.
 
 [![Committers Top Badge](https://user-badge.committers.top/somalia/imdayib.svg)](https://user-badge.committers.top/somalia/imdayib)
 
