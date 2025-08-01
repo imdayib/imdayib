@@ -1,6 +1,15 @@
-# 💫 Hi 👋, I'm Ismail 
+# 💫 Hi 👋 About Me
+👋 I’m **Ismail Abdirahman**, a self-taught **Full Stack Developer** and **Junior IT at Yiksi**, passionate about crafting seamless and meaningful digital experiences.
 
-I’m a Creative Front-End Developer and Junior IT Developer at Yiksi, passionate about building clean, responsive, and user-focused web & mobile apps.
+💻 **Front-End Development** – Designing and building clean, responsive UIs for both web and mobile platforms  
+🛠️ **Back-End Growth** – Continuously exploring server-side technologies and system architecture  
+🚀 **Project Ownership** – Developer behind *Taran App*, a personal project aimed at improving my skills in app development while learning about cryptocurrency technologies
+
+🌱 **Always Learning** – Driven to grow in areas like cloud deployment, app optimization, and blockchain tech  
+🤝 **Team-Oriented** – Enjoy working in collaborative environments, delivering impact through code  
+
+
+Always learning, building, and evolving. 🚀
 
 Email Me 👉 ✉️ **walaldayib1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
