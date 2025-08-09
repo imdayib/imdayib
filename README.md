@@ -1,5 +1,7 @@
 # 💫 Hi 👋 About Me
-👋 I’m **Ismail Abdirahman**, a self-taught **Full Stack Developer** and **Junior IT at Yiksi**, passionate about crafting seamless and meaningful digital experiences.
+👋 Hi, **I’m Ismail Abdirahman**
+💻 **Full Stack Developer (Self-taught) | Junior Developer at Yiksi**  
+🚀 Passionate about building seamless and meaningful digital experiences that solve real-world problems.
 
 💻 **Front-End Development** – Designing and building clean, responsive UIs for both web and mobile platforms  
 🛠️ **Back-End Growth** – Continuously exploring server-side technologies and system architecture  
